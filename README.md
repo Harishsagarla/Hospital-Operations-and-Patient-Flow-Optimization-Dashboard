@@ -37,9 +37,5 @@ To view or interact with the dashboard:
 - Data visualization techniques (charts, slicers, conditional formatting)
 - Interactive dashboard design
 
-## 📚 Acknowledgements:
-This project was created by following the YouTube tutorial by Satish Dhawale on Complete Excel Project with Interactive Dashboard | Resume Project | Step-by-Step Tutorial . Special thanks to the creator for their detailed and educational content.
 
-## 📬 Contact:
-For feedback or collaboration, please contact Aryan Patil at patilavs03@gmail.com .
 
