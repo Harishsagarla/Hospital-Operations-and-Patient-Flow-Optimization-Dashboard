@@ -1,4 +1,4 @@
-# Hospital-Emergency-Room-Dashboard-Using-Excel
+# Hospital Operations & Patient Flow Optimization Dashboard
 
 ## 📊 Project Overview:
 This is an interactive Excel dashboard designed to visualize and monitor key metrics of a hospital's emergency room on a **monthly basis**. The dashboard dynamically updates based on user-selected filters and slicers, allowing real-time exploration of the data.
